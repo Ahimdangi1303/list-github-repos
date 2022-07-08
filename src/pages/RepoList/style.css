@@ -1,0 +1,35 @@
+
+.first-row-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.post-text{
+    font-size: 50px;
+    color: cadetblue;
+    text-align: center;
+    width: 100%;
+}
+
+.first-container{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.table_div{
+    display: flex;
+    justify-content: center;
+
+}
+
+.table_style{
+    border: 2px solid #b7a8a8;
+    padding: 20px 20px;
+
+}
+
